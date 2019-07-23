@@ -1,0 +1,47 @@
+body{
+    background-color: gray;
+}
+h1{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+header{
+    text-align:center
+}
+h3{
+text-align:center
+}
+h2{
+    text-align: center
+}
+img{
+width:100;
+height:auto;
+margin-right: 10%;
+margin-left: 27%;
+}
+.all_watches_container{
+width:25;
+height:auto;
+margin-right: 0%;
+margin-left: 3%;
+}
+.watches_description{
+text-align:left 
+}
+
+.watch_container{
+width:25;
+height:auto;
+margin-right: 20%;
+margin-left: 3%;
+}
+.watch_container > img{
+    float: left;
+    max-height: 25;
+}
+article > img{
+    width: 150px;
+    height: auto;
+    float: left;
+    margin-left:10%;
+}
